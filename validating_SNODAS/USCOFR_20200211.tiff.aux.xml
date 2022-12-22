@@ -1,0 +1,23 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="Latitude#Units">degrees_north</MDI>
+    <MDI key="Latitude#_FillValue">-999</MDI>
+    <MDI key="Longitude#Units">degrees_east</MDI>
+    <MDI key="Longitude#_FillValue">-999</MDI>
+    <MDI key="SD_Post#Units">meters</MDI>
+    <MDI key="SD_Post#_FillValue">-999</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <UnitType>meters</UnitType>
+    <Metadata>
+      <MDI key="NETCDF_VARNAME">SD_Post</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.8933999538422</MDI>
+      <MDI key="STATISTICS_MEAN">0.26348334631189</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">0.42133822224687</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+      <MDI key="Units">meters</MDI>
+      <MDI key="_FillValue">-999</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
